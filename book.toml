@@ -1,0 +1,15 @@
+[book]
+title = "JSAID OWASP IoT Security Testing Guide"
+authors = ["Luca Pascal Rotsch", "Aaron Guzman", "ToDo: JSAID Authors"]
+description = "The JSAID OWASP IoT Security Testing Guide is a customized version of the original OWASP ISTG"
+src = "src"
+language = "en"
+
+[build]
+build-dir = "book"
+create-missing = false
+
+[output.html]
+
+[output.pdf]
+optional = true
